@@ -19,7 +19,7 @@ This project demonstrates a comprehensive text processing pipeline, including tr
 
 1. Clone the repository:
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/Vinil-0603/Multilingual-Audio-Video-Summarizer
     cd <repository_directory>
     ```
 
